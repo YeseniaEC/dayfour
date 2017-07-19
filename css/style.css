@@ -1,0 +1,46 @@
+/*black*/
+.bg-black {
+  background-color: black;
+}
+
+.centered {
+  /*fix icon height and position */
+}
+
+.xs-height {
+  height: 20px;
+  background-color: black;
+}
+.sm-height {
+  height: 60px;
+  background-color: black;
+}
+.md-height {
+  height: 180px;
+  background-color: black;
+}
+.lg-height {
+  height: 540px;
+  background-color: black;
+}
+/*content styles*/
+#outer {
+  margin-top: 50px;
+}
+
+.links {
+  margin-top: 20px;
+}
+
+.horizontal-gutter {
+  margin: 0px 45px;
+}
+
+.buffer {
+  margin: 20px 0px;
+}
+
+.buffer-middle-row {
+  margin: 20px 45px;
+}
+ /*REMOVE THE EXTRA PADDDING ON BUFFER*/
